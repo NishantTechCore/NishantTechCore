@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blazingNishant/NISHANT KUMAR
 - 👀 I’m interested in Data Science mainly but currently I am into coding/programming.
 - 🌱 I’m currently learning Data Science as a student.
-- 💞️ I’m looking to collaborate on .... NO I am not looking for any collaboration.
+- 💞️ I’m looking to collaborate on .... NO I am not looing for any collaboration.
 - 📫 How to reach me? You can reach me through email same as this one.
 
 <!---
