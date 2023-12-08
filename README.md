@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blazingNishant/NISHANT KUMAR
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Data Science as a student.
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning Machine Learning as a student.
 - 💞️ I’m looking to collaborate on .... NO I am not looing for any collaboration.
 - 📫 How to reach me? You can reach me through email same as this one.
 
