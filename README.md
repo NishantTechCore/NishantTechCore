@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blazingNishant/NISHANT KUMAR
+- 👋 Hi, I’m @NishantTechCore/NISHANT KUMAR
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Machine Learning as a student.
 - 💞️ I’m looking to collaborate on .... NO I am not looing for any collaboration.
