@@ -8,8 +8,8 @@
 ### - C/C++
 ### - SQL
 ## Contact:
-### Email: kr.nishant04@gmail.com
-### www.linkedin.com/in/nishant-kumar-203342290
+### - Email: kr.nishant04@gmail.com
+### - www.linkedin.com/in/nishant-kumar-203342290
 <!---
 blazingNishant/blazingNishant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
