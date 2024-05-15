@@ -3,6 +3,9 @@
 ## I'm learning:
 ### Data Science
 ### Machine learning
+## Skills:
+### Python
+### C/C++
 ## Contact:
 ### Email: kr.nishant04@gmail.com
 ### www.linkedin.com/in/nishant-kumar-203342290
