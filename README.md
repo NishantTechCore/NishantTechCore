@@ -1,11 +1,12 @@
 # Hi There,
 ### My Name is Nishant Kumar, an undergraduate student with a passion of Machine Learning/Aritifical Intelligence. ML/AI always fascinates me and I am always eager to learn new things regarding this field.
 ## I'm learning:
-### Data Science
-### Machine learning
+### - Data Science
+### - Machine learning
 ## Skills:
-### Python
-### C/C++
+### - Python
+### - C/C++
+### - SQL
 ## Contact:
 ### Email: kr.nishant04@gmail.com
 ### www.linkedin.com/in/nishant-kumar-203342290
